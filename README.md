@@ -1,3 +1,7 @@
+
+## EX.NO:4
+## DATE :
+
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
@@ -54,12 +58,13 @@ Borrow out = A'Bin + A'B + BBin
 4.Compile the design, verify its functionality through simulation.      
 5.Implement the design on the target device and program it.     
 
+## FULL ADDER
+
+**Program:** 
+
 **Developed by: ROSHINI S**  
 **RegisterNumber:  212223240142** 
 
-## FULL ADDER
-
-**Program:**  
 
 ![322213549-80906e1c-545b-4d3a-9c71-99c0443828f0](https://github.com/Roshini2201/FULL_ADDER_SUBTRACTOR/assets/154105318/d2553e53-2984-461e-9eae-1fdea3a9021c)
 
